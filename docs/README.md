@@ -12,7 +12,9 @@
 - [Crafting Interpreters](https://drive.google.com/file/d/1jx-32lQlSfvIcEael-Onza0LNy2hFWEL/view?usp=sharing)
 - [Effective Typescript](https://drive.google.com/file/d/18etlkpUKcH_tp-IrBmUWNdv6EN6E03E0/view?usp=sharing)
 - [Efficient R Programming](https://drive.google.com/file/d/1neQ_nIUntW6ieA8pcchX_pzazpTN_HIi/view?usp=sharing)
-- [Game programming patterns](https://drive.google.com/file/d/1-GyqnqlUVbufRGg8etxMsHR4P97l_UR8/view?usp=sharing)
+- Game programming patterns
+	- [Pdf version](https://drive.google.com/file/d/1-GyqnqlUVbufRGg8etxMsHR4P97l_UR8/view?usp=sharing)
+	- [Website](https://gameprogrammingpatterns.com/contents.html)
 - [Introduction to Algorithms](https://drive.google.com/file/d/1srV-PQMxfaDM1BCvErdR3VKXw8Yycn3U/view?usp=sharing)
 	- [Exercises Solutions](https://drive.google.com/drive/folders/12Jq9GAECyyh_LGcVd4qAqm92cxrzUNKi?usp=sharing)
 - [Learn Bash the Hard Way](https://drive.google.com/file/d/1FxXVJ8ajzgEzveACkqAQDUArEZD-Pr4o/view?usp=sharing)
