@@ -3,6 +3,7 @@
 ## Books
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Understanding and Using C Pointers](https://drive.google.com/file/d/1WmSLkopoCYeO4H36tw_2BNUidmmrNDWb/view?usp=drive_link)
+- [Operating Systems: Design and Implementation](https://drive.google.com/file/d/1UHroD0BWAuoGLskkchLekCeYtDIHwo1X/view?usp=sharing)
 - [The C Programming Language](https://drive.google.com/file/d/1LbvCvhmgYnjaHwq6gGTp1pkMYlxOujAd/view?usp=drive_link)
 - [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link)
 - [Byte of Python](https://drive.google.com/file/d/1t31Av_OKpmh75BCeotZ5ILCNX4SYwv8H/view?usp=drive_link)
