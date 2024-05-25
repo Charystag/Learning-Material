@@ -29,3 +29,4 @@
 - [The ANSI C Programming Language](https://drive.google.com/file/d/1jAlLokU2AneydxYSCqqztzJB7CwaG3g7/view?usp=sharing)
 - [The C++ Programming Language](https://drive.google.com/file/d/1Yy-WjA__QyX04kinPEZ7kpXaVYhXtTcG/view?usp=sharing)
 - [Understanding Machine Learning Theory](https://drive.google.com/file/d/1iM2ExFP28A4wlT_-T-fiu8nI5p0xQ_T1/view?usp=sharing)
+- [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
