@@ -8,6 +8,7 @@
 - [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link)
 - [Byte of Python](https://drive.google.com/file/d/1t31Av_OKpmh75BCeotZ5ILCNX4SYwv8H/view?usp=drive_link)
 - [C in a Nutshell](https://drive.google.com/file/d/19eCH4DtJk5N1b39EbviuleL-RyAieCvj/view?usp=drive_link)
+- [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 - [C++ primer](https://drive.google.com/file/d/1_oVlEifAiltfLrt_B3V0hsSzAiRdBqiV/view?usp=sharing)
 - [Crafting Interpreters](https://drive.google.com/file/d/1jx-32lQlSfvIcEael-Onza0LNy2hFWEL/view?usp=sharing)
 - [Effective Typescript](https://drive.google.com/file/d/18etlkpUKcH_tp-IrBmUWNdv6EN6E03E0/view?usp=sharing)
@@ -30,3 +31,9 @@
 - [The C++ Programming Language](https://drive.google.com/file/d/1Yy-WjA__QyX04kinPEZ7kpXaVYhXtTcG/view?usp=sharing)
 - [Understanding Machine Learning Theory](https://drive.google.com/file/d/1iM2ExFP28A4wlT_-T-fiu8nI5p0xQ_T1/view?usp=sharing)
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
+
+## Github Repositories
+
+- [Binary Dissection Course](https://github.com/compilepeace/BINARY_DISSECTION_COURSE)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
