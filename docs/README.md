@@ -29,6 +29,7 @@
 ### MachineLearning
 
 - [Understanding Machine Learning Theory](https://drive.google.com/file/d/1iM2ExFP28A4wlT_-T-fiu8nI5p0xQ_T1/view?usp=sharing)
+- [Apprendre le Machine Learning en une semaine](https://drive.google.com/file/d/1-ufZPnMhvbS3ozk_aNiT9CoB-BTJB5iL/view?usp=sharing) *In french*
 
 ### SysAdmin
 
@@ -104,8 +105,9 @@
 
 - [Tsoding Daily](https://youtube.com/@tsodingdaily?si=FyFryvGzES9DSTVc)
 - [Github](https://youtube.com/@github?si=L3GBcVx2n9odD1Qw)
-- [Vercidium](https://youtube.com/@vercidium?si=upPdEfnD_HMzxPKo)
-- [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q)
+- [Vercidium](https://youtube.com/@vercidium?si=upPdEfnD_HMzxPKo) *Game Engine Developer*
+- [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q) *DevOps Engineer*
+- [Theodore Bendixson](https://youtube.com/@tedbendixson?si=CqQ9GxlKpuD2M0K2) *Game Engine Developer*
 
 ## Useful Links
 
