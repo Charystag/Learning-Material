@@ -83,6 +83,10 @@
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 
+### Security
+
+- [Awesome SSH](https://github.com/moul/awesome-ssh) *Collection of SSH Tools*
+
 ## Youtube Channels
 
 ### Algorithms
@@ -111,9 +115,15 @@
 
 ## Useful Links
 
+### DevOps
+
+- [DevOps RoadMap](https://roadmap.sh/devops)
+
 ### Miscellaneous
 
 - [Markdown Guide](https://www.markdownguide.org/)
+- [Web Skills MindMap](https://andreasbm.github.io/web-skills/)
+- [RoadMap Website](https://roadmap.sh/) *Contains a lot of great community-made roadmaps*
 
 ## Documentation
 
@@ -127,6 +137,13 @@
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
+### C
+
+- Xlib
+	- [Official Documentation](https://www.x.org/releases/X11R7.7/doc/)
+	- [Tronche Documentation](https://tronche.com/gui/x/xlib/)
+	- [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
+
 ### Miscellaneous
 
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
@@ -139,3 +156,7 @@
 - [numpy](https://github.com/numpy/numpy)
 - [pandas](https://github.com/pandas-dev/pandas)
 - [matplotlib](https://github.com/matplotlib/matplotlib) *The source code is written in C and C++*
+
+### C
+
+- [X11](https://github.com/mirror/libX11)
