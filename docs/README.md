@@ -96,6 +96,10 @@
 
 ## Useful Links
 
+### Miscellaneous
+
+- [Markdown Guide](https://www.markdownguide.org/)
+
 ## Documentation
 
 ### Python
