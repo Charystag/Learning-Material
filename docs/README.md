@@ -76,6 +76,9 @@
 - [Operating Systems: Design and Implementation](https://drive.google.com/file/d/1UHroD0BWAuoGLskkchLekCeYtDIHwo1X/view?usp=sharing)
 - [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link)
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
+- Mastering CMake
+	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
+	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
 
 ## Github Repositories
 
@@ -147,6 +150,7 @@
 ### Miscellaneous
 
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 ## Source Code
 
