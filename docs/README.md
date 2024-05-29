@@ -46,19 +46,27 @@
 	- [Pdf version](https://drive.google.com/file/d/1-GyqnqlUVbufRGg8etxMsHR4P97l_UR8/view?usp=sharing)
 	- [Website](https://gameprogrammingpatterns.com/contents.html)
 
+### Python
+
+- [Learning Python](https://drive.google.com/file/d/1tdwn4R-H0CigcAfW-MvS87GPG7iy_VVl/view?usp=sharing)
+- [Byte of Python](https://drive.google.com/file/d/1t31Av_OKpmh75BCeotZ5ILCNX4SYwv8H/view?usp=drive_link)
+- [Django for Beginners 3.1](https://drive.google.com/file/d/10B9KbAlhXnhKBXOpJuYLwVN7rJVtOmXt/view?usp=drive_link)
+- [Flask Web Development](https://drive.google.com/file/d/1EQzQgZ_jts8HXGaVEpKWT1XaLirgSN1m/view?usp=sharing)
+- Python Data Science Hanbook
+	- [Web verion](https://jakevdp.github.io/PythonDataScienceHandbook/)
+	- [Pdf version](https://drive.google.com/file/d/1h1qqsWAFVTnwXRlmrG7oj1xFQGsDzgNP/view?usp=sharing)
+
 ### Miscellaneous
 
+- [Pro Git](https://git-scm.com/book/en/v2)
 - [Learning Perl](https://drive.google.com/file/d/1Ht-yJpkgalh2iw6QkTTE5fCZ4YINZ9un/view?usp=sharing)
-- [Learning Python](https://drive.google.com/file/d/1tdwn4R-H0CigcAfW-MvS87GPG7iy_VVl/view?usp=sharing)
 - [Learning the vi and Vim Editors](https://drive.google.com/file/d/1kEKwwKjofKds6yJnJgpLj41Bcv2_7fbe/view?usp=sharing)
 - [Mastering Regular Expressions](https://drive.google.com/file/d/1GwQmoJZ4Ekx5_ZunXwBpmwQpUgoPCgjN/view?usp=sharing)
 - [Crafting Interpreters](https://drive.google.com/file/d/1jx-32lQlSfvIcEael-Onza0LNy2hFWEL/view?usp=sharing)
 - [Effective Typescript](https://drive.google.com/file/d/18etlkpUKcH_tp-IrBmUWNdv6EN6E03E0/view?usp=sharing)
 - [Efficient R Programming](https://drive.google.com/file/d/1neQ_nIUntW6ieA8pcchX_pzazpTN_HIi/view?usp=sharing)
-- [Pro Git](https://git-scm.com/book/en/v2)
 - [Operating Systems: Design and Implementation](https://drive.google.com/file/d/1UHroD0BWAuoGLskkchLekCeYtDIHwo1X/view?usp=sharing)
 - [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link)
-- [Byte of Python](https://drive.google.com/file/d/1t31Av_OKpmh75BCeotZ5ILCNX4SYwv8H/view?usp=drive_link)
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 
 ## Github Repositories
@@ -77,6 +85,38 @@
 
 - [The Coding Train](https://youtube.com/@thecodingtrain?si=TeXM2AH3QhTIWzZE)
 
+### Machine Learning
+
+- [Machine Learnia](https://youtube.com/@machinelearnia?si=TxOyu1T1r8eiaLID)
+
 ### Miscellaneous
 
 - [Tsoding Daily](https://youtube.com/@tsodingdaily?si=FyFryvGzES9DSTVc)
+- [Github](https://youtube.com/@github?si=L3GBcVx2n9odD1Qw)
+
+## Useful Links
+
+## Documentation
+
+### Python
+
+- [Python Documentation Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Django Documentation](https://docs.djangoproject.com/en/5.0/)
+- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/getting_started.html)
+- [Numpy Documentation](https://numpy.org/doc/1.26/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+
+### Miscellaneous
+
+- [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
+
+## Source Code
+
+### Python
+
+- [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
+- [numpy](https://github.com/numpy/numpy)
+- [pandas](https://github.com/pandas-dev/pandas)
+- [matplotlib](https://github.com/matplotlib/matplotlib) *The source code is written in C and C++*
