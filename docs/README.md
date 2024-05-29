@@ -66,3 +66,17 @@
 - [Binary Dissection Course](https://github.com/compilepeace/BINARY_DISSECTION_COURSE)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
+
+## Youtube Channels
+
+### Algorithms
+
+- [Spanning Tree](https://youtube.com/@spanningtree?si=knV7yWSC6YG--6r6)
+
+### Js
+
+- [The Coding Train](https://youtube.com/@thecodingtrain?si=TeXM2AH3QhTIWzZE)
+
+### Miscellaneous
+
+- [Tsoding Daily](https://youtube.com/@tsodingdaily?si=FyFryvGzES9DSTVc)
