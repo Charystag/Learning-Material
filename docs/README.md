@@ -6,6 +6,8 @@
 
 - [Introduction to Algorithms](https://drive.google.com/file/d/1srV-PQMxfaDM1BCvErdR3VKXw8Yycn3U/view?usp=sharing)
 	- [Exercises Solutions](https://drive.google.com/drive/folders/12Jq9GAECyyh_LGcVd4qAqm92cxrzUNKi?usp=sharing)
+- [Introduction to the Design and Analysis of Algorithms](https://drive.google.com/file/d/1dBzezw0oPJ8r2JOovfHjfh5QjZfMuziv/view?usp=sharing)
+- [Artificial Intelligence, A Modern Approach](https://drive.google.com/file/d/1p6Vs87YOqLC6Rp_mk9vXa-JRmlfdC78i/view?usp=sharing)
 
 ### C and C++
 
@@ -18,10 +20,11 @@
 - [C++ primer](https://drive.google.com/file/d/1_oVlEifAiltfLrt_B3V0hsSzAiRdBqiV/view?usp=sharing)
 - [C in a Nutshell](https://drive.google.com/file/d/19eCH4DtJk5N1b39EbviuleL-RyAieCvj/view?usp=drive_link)
 
-### Shell Scripting
+### Shell
 
 - [Learn Bash the Hard Way](https://drive.google.com/file/d/1FxXVJ8ajzgEzveACkqAQDUArEZD-Pr4o/view?usp=sharing)
 - [Learning the Bash Shell](https://drive.google.com/file/d/1TCR-soJMgx8MZMcwRbH_bqHstzWSmJ_r/view?usp=sharing)
+- [The Linux Command Line](https://freefr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf?viasf=1)
 
 ### MachineLearning
 
@@ -30,6 +33,7 @@
 ### SysAdmin
 
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
+- [Unix and Linux System Administration Handbook](https://drive.google.com/file/d/11WlDLv-G3nD0Hqf2RVdk_ZOF2SWVHRC1/view?usp=drive_link)
 
 ### DevOps
 
@@ -38,7 +42,8 @@
 
 ### Security
 
-- [Securite informatique - Ethical Hacking](https://drive.google.com/file/d/1LaKgR24rY8NuaVCVUKrksIpGKkXcRXUd/view?usp=sharing)
+- [Securite informatique - Ethical Hacking](https://drive.google.com/file/d/1LaKgR24rY8NuaVCVUKrksIpGKkXcRXUd/view?usp=sharing) *In french*
+- [SSH Mastery](https://drive.google.com/file/d/1pR7_hHG6z7c41kVlZFaqfOysph-WfE-5/view?usp=sharing)
 
 ### Design Patterns
 
