@@ -55,6 +55,8 @@
 - Python Data Science Hanbook
 	- [Web verion](https://jakevdp.github.io/PythonDataScienceHandbook/)
 	- [Pdf version](https://drive.google.com/file/d/1h1qqsWAFVTnwXRlmrG7oj1xFQGsDzgNP/view?usp=sharing)
+- [Hands-on Machine Learning with Scikit-Learn, Kerasm and TensorFlow](https://drive.google.com/file/d/106EBlq4Oz16Vnb6dO0trpmWsmbS95-Yw/view?usp=sharing)
+- [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 
 ### Miscellaneous
 
@@ -89,10 +91,16 @@
 
 - [Machine Learnia](https://youtube.com/@machinelearnia?si=TxOyu1T1r8eiaLID)
 
+### Python
+
+- [Corey Schafer](https://youtube.com/@coreyms?si=pklAoJFlzhQxM82n)
+
 ### Miscellaneous
 
 - [Tsoding Daily](https://youtube.com/@tsodingdaily?si=FyFryvGzES9DSTVc)
 - [Github](https://youtube.com/@github?si=L3GBcVx2n9odD1Qw)
+- [Vercidium](https://youtube.com/@vercidium?si=upPdEfnD_HMzxPKo)
+- [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q)
 
 ## Useful Links
 
