@@ -51,6 +51,9 @@
 - Black Hat Rust
 	- [Book](https://drive.google.com/file/d/1oCzbtPzbwmPNwANDgfkQNdBDzMp1KS3c/view?usp=sharing)
 	- [GitHub Repository](https://github.com/skerkour/black-hat-rust)
+- Learning Linux Binary Analysis
+	- [Book](https://drive.google.com/file/d/1sDlgT9_ChODDX5j8cD_yToxWOaU_2rPU/view?usp=drive_link)
+	- [Github Repository](https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis/)
 
 ### Design Patterns
 
@@ -85,16 +88,20 @@
 - Mastering CMake
 	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
 	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
+- [Programming from the Ground Up](https://drive.google.com/file/d/1KfVTZmRPJ4wMb5EQaARoTPEn_F8H4m1z/view?usp=drive_link)
 
 ## Github Repositories
-
-- [Binary Dissection Course](https://github.com/compilepeace/BINARY_DISSECTION_COURSE)
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 
 ### Security
 
 - [Awesome SSH](https://github.com/moul/awesome-ssh) *Collection of SSH Tools*
+
+### Miscellaneous
+
+- [Binary Dissection Course](https://github.com/compilepeace/BINARY_DISSECTION_COURSE)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Assembly Tutorial](https://github.com/mschwartz/assembly-tutorial)
 
 ## Youtube Channels
 
@@ -122,6 +129,8 @@
 - [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q) *DevOps Engineer*
 - [Theodore Bendixson](https://youtube.com/@tedbendixson?si=CqQ9GxlKpuD2M0K2) *Game Engine Developer*
 - [Leet Cipher](https://youtube.com/@leetcipher?si=ZHPctgzXDnHbZXRJ) *Security Related Videos*
+- [Ben Eater](https://youtube.com/@beneater?si=oSa4qWDheVugI87Z) *Assembly Videos*
+- [Low Level Learning](https://youtube.com/@lowlevellearning?si=xHxFwps01yu3byPv)
 
 ## Useful Links
 
