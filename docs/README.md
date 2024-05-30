@@ -45,6 +45,7 @@
 
 - [Securite informatique - Ethical Hacking](https://drive.google.com/file/d/1LaKgR24rY8NuaVCVUKrksIpGKkXcRXUd/view?usp=sharing) *In french*
 - [SSH Mastery](https://drive.google.com/file/d/1pR7_hHG6z7c41kVlZFaqfOysph-WfE-5/view?usp=sharing)
+- [Hacking: The Art of Exploitation](https://drive.google.com/file/d/10QugF-mQj8Sc4oO3TF5nXfqm9LVEsg0R/view?usp=sharing)
 
 ### Design Patterns
 
@@ -115,12 +116,17 @@
 - [Vercidium](https://youtube.com/@vercidium?si=upPdEfnD_HMzxPKo) *Game Engine Developer*
 - [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q) *DevOps Engineer*
 - [Theodore Bendixson](https://youtube.com/@tedbendixson?si=CqQ9GxlKpuD2M0K2) *Game Engine Developer*
+- [Leet Cipher](https://youtube.com/@leetcipher?si=ZHPctgzXDnHbZXRJ) *Security Related Videos*
 
 ## Useful Links
 
 ### DevOps
 
 - [DevOps RoadMap](https://roadmap.sh/devops)
+
+### Security
+
+- [OpenSecurity Training](https://opensecuritytraining.info/)
 
 ### Miscellaneous
 
