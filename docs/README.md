@@ -59,6 +59,7 @@
 	- [Github Repository](https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis/)
 - [Black Hat Python](https://drive.google.com/file/d/10rZ-hHkaS5MJTuewsR45IrW7MUtjPUvW/view?usp=drive_link)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://drive.google.com/file/d/1qr7Ga_JfxJNKLATXOVeLaMKjIpXzyaT4/view?usp=drive_link)
+- [Game Hacking](https://drive.google.com/file/d/1AdEGr0bHa8YySklgDMIEwbFdc4s5M6qZ/view?usp=sharing)
 
 
 ### Design Patterns
@@ -101,6 +102,8 @@
 ### Security
 
 - [Awesome SSH](https://github.com/moul/awesome-ssh) *Collection of SSH Tools*
+- [Attack Methodology for JWT Tokens](https://github.com/ticarpi/jwt_tool/wiki/Attack-Methodology)
+- [APT-42 Ressources](https://github.com/apt-42/resources)
 
 ### Miscellaneous
 
@@ -155,6 +158,7 @@
 - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)
 - [Hacker-Roadmap](https://github.com/Hacking-Notes/Hacker-Roadmap) *Different from the one in roadmap.sh*
 - [Exploit Database](https://www.exploit-db.com/)
+- [Introduction au reverse](https://reverse.zip/categories/introduction-au-reverse/) *In french*
 
 ### Miscellaneous
 
