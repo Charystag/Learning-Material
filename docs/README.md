@@ -147,10 +147,12 @@
 	- [Tronche Documentation](https://tronche.com/gui/x/xlib/)
 	- [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
 
+
 ### Miscellaneous
 
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [NASM Documentation](https://www.nasm.us/xdoc/2.16.03/html/nasmdoc0.html)
 
 ## Source Code
 
