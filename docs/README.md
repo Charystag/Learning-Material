@@ -46,6 +46,11 @@
 - [Securite informatique - Ethical Hacking](https://drive.google.com/file/d/1LaKgR24rY8NuaVCVUKrksIpGKkXcRXUd/view?usp=sharing) *In french*
 - [SSH Mastery](https://drive.google.com/file/d/1pR7_hHG6z7c41kVlZFaqfOysph-WfE-5/view?usp=sharing)
 - [Hacking: The Art of Exploitation](https://drive.google.com/file/d/10QugF-mQj8Sc4oO3TF5nXfqm9LVEsg0R/view?usp=sharing)
+- [The Shellcoder's Handbook](https://drive.google.com/file/d/1ilcpWUvKEqcreuKrhv8NbMN2ArQKDIrV/view?usp=drive_link)
+- [Gray Hat Hacking](https://drive.google.com/file/d/1GTtlFR65jXr3MFy0f7pgekwYrG05GBMl/view?usp=drive_link)
+- Black Hat Rust
+	- [Book](https://drive.google.com/file/d/1oCzbtPzbwmPNwANDgfkQNdBDzMp1KS3c/view?usp=sharing)
+	- [GitHub Repository](https://github.com/skerkour/black-hat-rust)
 
 ### Design Patterns
 
