@@ -40,6 +40,9 @@
 
 - [Kubernetes: Up and Running](https://drive.google.com/file/d/1Yn09nN2vMriiFqaf8T6AlQf9BuWUbt_a/view?usp=sharing)
 - [Docker Deep Dive](https://drive.google.com/file/d/1pgFI37PTsCfHq9kKGEHAymg2G4JrEnKQ/view?usp=sharing)
+- [Building Secure and Reliable Systems](https://github.com/google/building-secure-and-reliable-systems/)
+- [Hand-On Security in DevOps](https://drive.google.com/file/d/10EVRMidjZXFn3ubEctN4e52gb4czGqRu/view?usp=drive_link)
+- [Learning DevSecOps](https://drive.google.com/file/d/1Ocviz0VmogIPorxAACFC0hkcW3N7NTqI/view?usp=drive_link)
 
 ### Security
 
@@ -102,6 +105,7 @@
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Assembly Tutorial](https://github.com/mschwartz/assembly-tutorial)
+- [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 
 ## Youtube Channels
 
@@ -137,10 +141,13 @@
 ### DevOps
 
 - [DevOps RoadMap](https://roadmap.sh/devops)
+- [DevSecOps blog](https://www.devsecops.org/)
+- [DevSecOps best practices](https://escape.tech/blog/the-ultimate-devsecops-checklist/)
 
 ### Security
 
 - [OpenSecurity Training](https://opensecuritytraining.info/)
+- [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)
 
 ### Miscellaneous
 
