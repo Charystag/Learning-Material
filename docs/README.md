@@ -109,6 +109,7 @@
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Assembly Tutorial](https://github.com/mschwartz/assembly-tutorial)
 - [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
+- [Dav1d project by VLC](https://github.com/videolan/dav1d) *Lightweight av1 cross-platform decoder*
 
 ## Youtube Channels
 
