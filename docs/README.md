@@ -160,6 +160,7 @@
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Web Skills MindMap](https://andreasbm.github.io/web-skills/)
 - [RoadMap Website](https://roadmap.sh/) *Contains a lot of great community-made roadmaps*
+- [Alliance for Open Media](https://aomedia.org/av1-features/get-started/) *Lots of ressources from AOM*
 
 ## Free Courses
 
@@ -205,6 +206,7 @@
 - [NASM Documentation](https://www.nasm.us/xdoc/2.16.03/html/nasmdoc0.html)
 - [Metasploit Documentation](https://docs.metasploit.com/)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
+- [VLC Documentation](https://wiki.videolan.org/Hacker_Guide/)
 
 ## Source Code
 
