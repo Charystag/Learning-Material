@@ -155,6 +155,13 @@
 - [Web Skills MindMap](https://andreasbm.github.io/web-skills/)
 - [RoadMap Website](https://roadmap.sh/) *Contains a lot of great community-made roadmaps*
 
+### Free Courses
+
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [edX](https://www.edx.org/)
+- [FUN-Mooc](https://www.fun-mooc.fr/) *Also available in french*
+
+
 ## Documentation
 
 ### Python
