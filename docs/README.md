@@ -57,6 +57,9 @@
 - Learning Linux Binary Analysis
 	- [Book](https://drive.google.com/file/d/1sDlgT9_ChODDX5j8cD_yToxWOaU_2rPU/view?usp=drive_link)
 	- [Github Repository](https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis/)
+- [Black Hat Python](https://drive.google.com/file/d/10rZ-hHkaS5MJTuewsR45IrW7MUtjPUvW/view?usp=drive_link)
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://drive.google.com/file/d/1qr7Ga_JfxJNKLATXOVeLaMKjIpXzyaT4/view?usp=drive_link)
+
 
 ### Design Patterns
 
@@ -86,7 +89,7 @@
 - [Effective Typescript](https://drive.google.com/file/d/18etlkpUKcH_tp-IrBmUWNdv6EN6E03E0/view?usp=sharing)
 - [Efficient R Programming](https://drive.google.com/file/d/1neQ_nIUntW6ieA8pcchX_pzazpTN_HIi/view?usp=sharing)
 - [Operating Systems: Design and Implementation](https://drive.google.com/file/d/1UHroD0BWAuoGLskkchLekCeYtDIHwo1X/view?usp=sharing)
-- [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link)
+- [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link) *In french*
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 - Mastering CMake
 	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
@@ -135,6 +138,7 @@
 - [Leet Cipher](https://youtube.com/@leetcipher?si=ZHPctgzXDnHbZXRJ) *Security Related Videos*
 - [Ben Eater](https://youtube.com/@beneater?si=oSa4qWDheVugI87Z) *Assembly Videos*
 - [Low Level Learning](https://youtube.com/@lowlevellearning?si=xHxFwps01yu3byPv)
+- [HackerSploit](https://youtube.com/@hackersploit?si=h-WgCo3k8nR6Qk2-) *Leading provider of free infosec and cybersecurity training*
 
 ## Useful Links
 
@@ -148,6 +152,8 @@
 
 - [OpenSecurity Training](https://opensecuritytraining.info/)
 - [Application Security Knowledgebase](https://ishaqmohammed.me/posts/application-security-knowledgebase/)
+- [Hacker-Roadmap](https://github.com/Hacking-Notes/Hacker-Roadmap) *Different from the one in roadmap.sh*
+- [Exploit Database](https://www.exploit-db.com/)
 
 ### Miscellaneous
 
@@ -188,6 +194,8 @@
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 - [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 - [NASM Documentation](https://www.nasm.us/xdoc/2.16.03/html/nasmdoc0.html)
+- [Metasploit Documentation](https://docs.metasploit.com/)
+- [Kali Linux Documentation](https://www.kali.org/docs/)
 
 ## Source Code
 
