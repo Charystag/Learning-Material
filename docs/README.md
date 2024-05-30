@@ -161,7 +161,16 @@
 - [Web Skills MindMap](https://andreasbm.github.io/web-skills/)
 - [RoadMap Website](https://roadmap.sh/) *Contains a lot of great community-made roadmaps*
 
-### Free Courses
+## Free Courses
+
+### Security
+
+- [Overthewire](https://overthewire.org/wargames/)
+- [Root-me](https://www.root-me.org/)
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.com/)
+
+### Miscellaneous
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [edX](https://www.edx.org/)
