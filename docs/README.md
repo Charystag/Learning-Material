@@ -159,7 +159,8 @@
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [edX](https://www.edx.org/)
-- [FUN-Mooc](https://www.fun-mooc.fr/) *Also available in french*
+- [FUN-MOOC](https://www.fun-mooc.fr/) *Also available in french*
+- [codecademy](https://www.codecademy.com)
 
 
 ## Documentation
