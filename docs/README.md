@@ -136,7 +136,6 @@
 - [Vercidium](https://youtube.com/@vercidium?si=upPdEfnD_HMzxPKo) *Game Engine Developer*
 - [TechWorld with Nana](https://youtube.com/@techworldwithnana?si=X3R_WK4ZE4r9t97Q) *DevOps Engineer*
 - [Theodore Bendixson](https://youtube.com/@tedbendixson?si=CqQ9GxlKpuD2M0K2) *Game Engine Developer*
-- [Leet Cipher](https://youtube.com/@leetcipher?si=ZHPctgzXDnHbZXRJ) *Security Related Videos*
 - [Ben Eater](https://youtube.com/@beneater?si=oSa4qWDheVugI87Z) *Assembly Videos*
 - [Low Level Learning](https://youtube.com/@lowlevellearning?si=xHxFwps01yu3byPv)
 - [HackerSploit](https://youtube.com/@hackersploit?si=h-WgCo3k8nR6Qk2-) *Leading provider of free infosec and cybersecurity training*
