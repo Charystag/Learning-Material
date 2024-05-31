@@ -222,6 +222,7 @@
 - [Metasploit Documentation](https://docs.metasploit.com/)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 - [VLC Documentation](https://wiki.videolan.org/Hacker_Guide/)
+- [The Linux Documentation Project](https://tldp.org/)
 
 ## Source Code
 
