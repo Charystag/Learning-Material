@@ -61,6 +61,9 @@
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://drive.google.com/file/d/1qr7Ga_JfxJNKLATXOVeLaMKjIpXzyaT4/view?usp=drive_link)
 - [Game Hacking](https://drive.google.com/file/d/1AdEGr0bHa8YySklgDMIEwbFdc4s5M6qZ/view?usp=sharing)
 - [Serious Cryptography](https://drive.google.com/file/d/1PWdhT9iYibW2fV1nALvRNcKSyyn_BedH/view?usp=sharing)
+- Reverse Engineering for Beginners
+	- [Book](https://drive.google.com/file/d/12jD_EEYLp0rHtD2b7Pvels6uWKXqzkns/view?usp=sharing)
+	- [Exercises](https://challenges.re/)
 
 
 ### Design Patterns
@@ -159,6 +162,7 @@
 - [Hacker-Roadmap](https://github.com/Hacking-Notes/Hacker-Roadmap) *Different from the one in roadmap.sh*
 - [Exploit Database](https://www.exploit-db.com/)
 - [Introduction au reverse](https://reverse.zip/categories/introduction-au-reverse/) *In french*
+- [The cryptopals crypto challenges](https://cryptopals.com/)
 
 ### Miscellaneous
 
@@ -166,6 +170,7 @@
 - [Web Skills MindMap](https://andreasbm.github.io/web-skills/)
 - [RoadMap Website](https://roadmap.sh/) *Contains a lot of great community-made roadmaps*
 - [Alliance for Open Media](https://aomedia.org/av1-features/get-started/) *Lots of ressources from AOM*
+- [Project Euler](https://projecteuler.net/) *Mathematics/Computer Programming Problems*
 
 ## Free Courses
 
