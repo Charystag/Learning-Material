@@ -172,6 +172,11 @@
 - [Alliance for Open Media](https://aomedia.org/av1-features/get-started/) *Lots of ressources from AOM*
 - [Project Euler](https://projecteuler.net/) *Mathematics/Computer Programming Problems*
 
+### Linters
+
+- [Shellcheck](https://www.shellcheck.net/) * Shell scripts linter *
+- [Google Style Guide](https://google.github.io/styleguide/) * Google guidelines for formatting code *
+
 ## Free Courses
 
 ### Security
