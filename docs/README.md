@@ -174,8 +174,8 @@
 
 ### Linters
 
-- [Shellcheck](https://www.shellcheck.net/) * Shell scripts linter *
-- [Google Style Guide](https://google.github.io/styleguide/) * Google guidelines for formatting code *
+- [Shellcheck](https://www.shellcheck.net/) *Shell scripts linter*
+- [Google Style Guide](https://google.github.io/styleguide/) *Google guidelines for formatting code*
 
 ## Free Courses
 
