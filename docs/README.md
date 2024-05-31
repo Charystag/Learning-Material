@@ -60,6 +60,7 @@
 - [Black Hat Python](https://drive.google.com/file/d/10rZ-hHkaS5MJTuewsR45IrW7MUtjPUvW/view?usp=drive_link)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://drive.google.com/file/d/1qr7Ga_JfxJNKLATXOVeLaMKjIpXzyaT4/view?usp=drive_link)
 - [Game Hacking](https://drive.google.com/file/d/1AdEGr0bHa8YySklgDMIEwbFdc4s5M6qZ/view?usp=sharing)
+- [Serious Cryptography](https://drive.google.com/file/d/1PWdhT9iYibW2fV1nALvRNcKSyyn_BedH/view?usp=sharing)
 
 
 ### Design Patterns
