@@ -185,6 +185,7 @@
 - [Root-me](https://www.root-me.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.com/)
+- [picoCTF](https://picoctf.org/)
 
 ### Miscellaneous
 
