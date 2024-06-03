@@ -163,6 +163,7 @@
 - [Exploit Database](https://www.exploit-db.com/)
 - [Introduction au reverse](https://reverse.zip/categories/introduction-au-reverse/) *In french*
 - [The cryptopals crypto challenges](https://cryptopals.com/)
+- [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/) *A set of implementation guidelines to write secure programs*
 
 ### Miscellaneous
 
