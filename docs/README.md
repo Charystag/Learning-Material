@@ -64,6 +64,7 @@
 - Reverse Engineering for Beginners
 	- [Book](https://drive.google.com/file/d/12jD_EEYLp0rHtD2b7Pvels6uWKXqzkns/view?usp=sharing)
 	- [Exercises](https://challenges.re/)
+- [Nmap Network Scanning](https://drive.google.com/file/d/1dbUqCJ5U2PsprFZ1Fbs-34Mb9AKWKvLY/view?usp=sharing)
 
 
 ### Design Patterns
