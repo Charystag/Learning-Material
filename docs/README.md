@@ -232,6 +232,7 @@
 - [Kali Linux Documentation](https://www.kali.org/docs/)
 - [VLC Documentation](https://wiki.videolan.org/Hacker_Guide/)
 - [The Linux Documentation Project](https://tldp.org/)
+- [Vim Documentation](https://vimdoc.sourceforge.net/)
 
 ## Source Code
 
