@@ -214,6 +214,7 @@
 - [Numpy Documentation](https://numpy.org/doc/1.26/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+- [Tutoriel Python](https://python.doctor/) *In french*
 
 ### C
 
