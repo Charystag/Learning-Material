@@ -176,6 +176,7 @@
 - [Alliance for Open Media](https://aomedia.org/av1-features/get-started/) *Lots of ressources from AOM*
 - [Project Euler](https://projecteuler.net/) *Mathematics/Computer Programming Problems*
 - [Archive site du zéro](http://sdz.tdct.org/) *In frech*
+- [Imagemagick Package](https://imagemagick.org/)
 
 ### Linters
 
