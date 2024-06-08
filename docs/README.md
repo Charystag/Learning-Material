@@ -101,6 +101,7 @@
 	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
 	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
 - [Programming from the Ground Up](https://drive.google.com/file/d/1KfVTZmRPJ4wMb5EQaARoTPEn_F8H4m1z/view?usp=drive_link)
+- [Everything Curl](https://everything.curl.dev/)
 
 ## Github Repositories
 
