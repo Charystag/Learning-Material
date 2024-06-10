@@ -84,6 +84,7 @@
 	- [Pdf version](https://drive.google.com/file/d/1h1qqsWAFVTnwXRlmrG7oj1xFQGsDzgNP/view?usp=sharing)
 - [Hands-on Machine Learning with Scikit-Learn, Kerasm and TensorFlow](https://drive.google.com/file/d/106EBlq4Oz16Vnb6dO0trpmWsmbS95-Yw/view?usp=sharing)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
+- [Python Basics : A practical introduction to Python 3](https://drive.google.com/file/d/1OBAIvgVpcoSSIntTQGqFBYe10-kWWUdy/view?usp=drive_link)
 
 ### Miscellaneous
 
