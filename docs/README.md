@@ -239,6 +239,7 @@
 - [VLC Documentation](https://wiki.videolan.org/Hacker_Guide/)
 - [The Linux Documentation Project](https://tldp.org/)
 - [Vim Documentation](https://vimdoc.sourceforge.net/)
+- [Intel Developers Documentation](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 ## Source Code
 
