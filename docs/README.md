@@ -169,6 +169,7 @@
 - [The cryptopals crypto challenges](https://cryptopals.com/)
 - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/) *A set of implementation guidelines to write secure programs*
 - [CTF-Wiki](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
+- [Optimization resources](https://www.agner.org/optimize/#manuals)
 
 ### Miscellaneous
 
