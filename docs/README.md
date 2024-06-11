@@ -221,6 +221,7 @@
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 - [Tutoriel Python](https://python.doctor/) *In french*
+- [BeautifulSoup Documentation](https://tedboy.github.io/bs4_doc/)
 
 ### C
 
