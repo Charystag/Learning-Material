@@ -65,6 +65,7 @@
 	- [Book](https://drive.google.com/file/d/12jD_EEYLp0rHtD2b7Pvels6uWKXqzkns/view?usp=sharing)
 	- [Exercises](https://challenges.re/)
 - [Nmap Network Scanning](https://drive.google.com/file/d/1dbUqCJ5U2PsprFZ1Fbs-34Mb9AKWKvLY/view?usp=sharing)
+- [Black Hat Go](https://drive.google.com/file/d/1CGNgjQfW58fC6ftLGmobiQgZLUqwI5j1/view?usp=drive_link)
 
 
 ### Design Patterns
@@ -244,6 +245,7 @@
 - [The Linux Documentation Project](https://tldp.org/)
 - [Vim Documentation](https://vimdoc.sourceforge.net/)
 - [Intel Developers Documentation](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+- [Go documentation and tutorials](https://go.dev/)
 
 ## Source Code
 
