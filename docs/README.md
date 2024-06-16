@@ -249,6 +249,7 @@ about application security*
 - [Vim Documentation](https://vimdoc.sourceforge.net/)
 - [Intel Developers Documentation](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - [Go documentation and tutorials](https://go.dev/)
+- [Github Actions Documentation](https://docs.github.com/en/actions)
 
 ## Source Code
 
