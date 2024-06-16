@@ -172,6 +172,8 @@
 - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/) *A set of implementation guidelines to write secure programs*
 - [CTF-Wiki](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
 - [Optimization resources](https://www.agner.org/optimize/#manuals)
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) *A collection of OWASP ressources 
+about application security*
 
 ### Miscellaneous
 
