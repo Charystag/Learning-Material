@@ -122,6 +122,7 @@
 - [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 - [Dav1d project by VLC](https://github.com/videolan/dav1d) *Lightweight av1 cross-platform decoder*
 - [Vim Reference](https://github.com/learnbyexample/vim_reference) *Vim guide to learn by example*
+- [Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 ## Youtube Channels
 
