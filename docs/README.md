@@ -66,6 +66,7 @@
 	- [Exercises](https://challenges.re/)
 - [Nmap Network Scanning](https://drive.google.com/file/d/1dbUqCJ5U2PsprFZ1Fbs-34Mb9AKWKvLY/view?usp=sharing)
 - [Black Hat Go](https://drive.google.com/file/d/1CGNgjQfW58fC6ftLGmobiQgZLUqwI5j1/view?usp=drive_link)
+- [The Ghidra Book](https://drive.google.com/file/d/1N158nxcfCIv0oUpSrgZ1HjZl6nkVu9B2/view?usp=drive_link)
 
 
 ### Design Patterns
@@ -87,6 +88,12 @@
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 - [Python Basics : A practical introduction to Python 3](https://drive.google.com/file/d/1OBAIvgVpcoSSIntTQGqFBYe10-kWWUdy/view?usp=drive_link)
 
+### Assembly
+
+- [Programming from the Ground Up](https://drive.google.com/file/d/1KfVTZmRPJ4wMb5EQaARoTPEn_F8H4m1z/view?usp=drive_link) *A good book to learn the core concepts of x86 Assembly for 32 bits machines*
+- [Learn to Program with Assembly](https://drive.google.com/file/d/1Godh030AyeS3QQRnE-7gtkmq7YXMe8RY/view?usp=drive_link) *A book from the same author to learn x86-64 Assembly*
+- [Modern x86 Assembly Language](https://drive.google.com/file/d/1clYpXLVedXpPfCFJpbGU6Wdh387UXeHc/view?usp=drive_link)
+
 ### Miscellaneous
 
 - [Pro Git](https://git-scm.com/book/en/v2)
@@ -102,7 +109,6 @@
 - Mastering CMake
 	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
 	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
-- [Programming from the Ground Up](https://drive.google.com/file/d/1KfVTZmRPJ4wMb5EQaARoTPEn_F8H4m1z/view?usp=drive_link) *A good book to learn the core concepts of x86 Assembly*
 - [Everything Curl](https://everything.curl.dev/)
 
 ## Github Repositories
