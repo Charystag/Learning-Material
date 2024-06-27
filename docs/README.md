@@ -111,6 +111,7 @@
 	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
 - [Everything Curl](https://everything.curl.dev/)
 - [100 fiches pour organiser sa veille technologique](https://drive.google.com/file/d/1yEJGTNwCXJzdh5-P7Re1wjQII1yehcVx/view?usp=drive_link) *In french*
+- [Scala by Example](https://drive.google.com/file/d/1fZdjfOmnIkST0LTqvc65c8_XaSrXzxEj/view?usp=drive_link)
 
 ## Github Repositories
 
