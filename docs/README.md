@@ -178,8 +178,8 @@
 - [Introduction au reverse](https://reverse.zip/categories/introduction-au-reverse/) *In french*
 - [The cryptopals crypto challenges](https://cryptopals.com/)
 - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/) *A set of implementation guidelines to write secure programs*
-- [CTF-Wiki](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html)
-- [Optimization resources](https://www.agner.org/optimize/#manuals)
+- [CTF-Wiki](https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/Hacking-Sites.html) *An extensive list of CTF websites (more than 20) where one 
+can learn about cybersecurity*
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) *A collection of OWASP ressources 
 about application security*
 
@@ -192,6 +192,7 @@ about application security*
 - [Project Euler](https://projecteuler.net/) *Mathematics/Computer Programming Problems*
 - [Archive site du zéro](http://sdz.tdct.org/) *In frech*
 - [Imagemagick Package](https://imagemagick.org/)
+- [Optimization resources](https://www.agner.org/optimize/#manuals)
 
 ### Linters
 
