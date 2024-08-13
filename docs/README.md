@@ -244,6 +244,7 @@ about application security*
 	- [Official Documentation](https://www.x.org/releases/X11R7.7/doc/)
 	- [Tronche Documentation](https://tronche.com/gui/x/xlib/)
 	- [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
+- [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 
 ### Miscellaneous
@@ -259,6 +260,7 @@ about application security*
 - [Intel Developers Documentation](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - [Go documentation and tutorials](https://go.dev/)
 - [Github Actions Documentation](https://docs.github.com/en/actions)
+- [Rust Documentation and tutorials](https://www.rust-lang.org/learn)
 
 ## Source Code
 
