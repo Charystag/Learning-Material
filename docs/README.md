@@ -228,14 +228,12 @@ about application security*
 
 ### Python
 
-- [Python Documentation Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Django Documentation](https://docs.djangoproject.com/en/5.0/)
 - [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/getting_started.html)
 - [Numpy Documentation](https://numpy.org/doc/1.26/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
-- [Tutoriel Python](https://python.doctor/) *In french*
 - [BeautifulSoup Documentation](https://tedboy.github.io/bs4_doc/)
 
 ### C
@@ -245,17 +243,10 @@ about application security*
 	- [Tronche Documentation](https://tronche.com/gui/x/xlib/)
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
-### Web
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [JavsScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-
 
 ### Miscellaneous
 
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
-- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 - [NASM Documentation](https://www.nasm.us/xdoc/2.16.03/html/nasmdoc0.html)
 - [Metasploit Documentation](https://docs.metasploit.com/)
 - [Kali Linux Documentation](https://www.kali.org/docs/)
@@ -263,16 +254,34 @@ about application security*
 - [The Linux Documentation Project](https://tldp.org/)
 - [Vim Documentation](https://vimdoc.sourceforge.net/)
 - [Intel Developers Documentation](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
-- [Go documentation and tutorials](https://go.dev/)
+- [Go documentation](https://go.dev/)
 - [Github Actions Documentation](https://docs.github.com/en/actions)
-- [Rust Documentation and tutorials](https://www.rust-lang.org/learn)
+- [Rust Documentation](https://www.rust-lang.org/learn)
 
-## Tutorial
+## Tutorials
+
+*The tutorials will mainly be from the documentation of the mentioned entities. However it will be explicitely mentionned 
+when they aren't*
+
+### Web
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [JavsScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+### Python
+
+- [Python Documentation Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Tutoriel Python](https://python.doctor/) *In french* *non official*
 
 ### C
 
 - Xlib
-    - [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
+    - [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/) *non official*
+
+### Miscellaneous
+
+- [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 ## Source Code
 
