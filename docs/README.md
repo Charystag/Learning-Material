@@ -243,8 +243,13 @@ about application security*
 - Xlib
 	- [Official Documentation](https://www.x.org/releases/X11R7.7/doc/)
 	- [Tronche Documentation](https://tronche.com/gui/x/xlib/)
-	- [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+
+### Web
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [JavsScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 
 ### Miscellaneous
@@ -261,6 +266,13 @@ about application security*
 - [Go documentation and tutorials](https://go.dev/)
 - [Github Actions Documentation](https://docs.github.com/en/actions)
 - [Rust Documentation and tutorials](https://www.rust-lang.org/learn)
+
+## Tutorial
+
+### C
+
+- Xlib
+    - [Tronche Tutorial](https://tronche.com/gui/x/xlib-tutorial/)
 
 ## Source Code
 
