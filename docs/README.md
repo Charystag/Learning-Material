@@ -74,6 +74,7 @@
 - Game programming patterns
 	- [Pdf version](https://drive.google.com/file/d/1-GyqnqlUVbufRGg8etxMsHR4P97l_UR8/view?usp=sharing)
 	- [Website](https://gameprogrammingpatterns.com/contents.html)
+- [Language Implementation Patterns](https://drive.google.com/file/d/1EYEGIO03EtwfKfRbmI06-zpIPDjMZqnk/view?usp=drive_link)
 
 ### Python
 
