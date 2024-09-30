@@ -26,10 +26,11 @@
 - [Learning the Bash Shell](https://drive.google.com/file/d/1TCR-soJMgx8MZMcwRbH_bqHstzWSmJ_r/view?usp=sharing)
 - [The Linux Command Line](https://freefr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf?viasf=1)
 
-### MachineLearning
+### MachineLearning and DeepLearning
 
 - [Understanding Machine Learning Theory](https://drive.google.com/file/d/1iM2ExFP28A4wlT_-T-fiu8nI5p0xQ_T1/view?usp=sharing)
 - [Apprendre le Machine Learning en une semaine](https://drive.google.com/file/d/1-ufZPnMhvbS3ozk_aNiT9CoB-BTJB5iL/view?usp=sharing) *In french*
+- [Deep Learning](https://drive.google.com/file/d/1tZg0WQX90Kc6bWGgaNPvs6Rz_O-Wma7Z/view?usp=drive_link)
 
 ### SysAdmin
 
@@ -67,6 +68,7 @@
 - [Nmap Network Scanning](https://drive.google.com/file/d/1dbUqCJ5U2PsprFZ1Fbs-34Mb9AKWKvLY/view?usp=sharing)
 - [Black Hat Go](https://drive.google.com/file/d/1CGNgjQfW58fC6ftLGmobiQgZLUqwI5j1/view?usp=drive_link)
 - [The Ghidra Book](https://drive.google.com/file/d/1N158nxcfCIv0oUpSrgZ1HjZl6nkVu9B2/view?usp=drive_link)
+- [Practical Binary Analysis](https://drive.google.com/file/d/1KaWXHIc9e6GR1empxZSC3xtnBXctLLqZ/view?usp=drive_link)
 
 
 ### Design Patterns
@@ -113,6 +115,7 @@
 - [Everything Curl](https://everything.curl.dev/)
 - [100 fiches pour organiser sa veille technologique](https://drive.google.com/file/d/1yEJGTNwCXJzdh5-P7Re1wjQII1yehcVx/view?usp=drive_link) *In french*
 - [Scala by Example](https://drive.google.com/file/d/1fZdjfOmnIkST0LTqvc65c8_XaSrXzxEj/view?usp=drive_link)
+- [Parsing Techniques](https://drive.google.com/file/d/1KyOk0KDv-gZ5_h3VFKWBRYv_jtOPvRq3/view?usp=drive_link)
 
 ## Github Repositories
 
