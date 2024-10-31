@@ -65,56 +65,56 @@
 	- [Book](https://mega.nz/file/RkIBFYDL#XQ0EXohGgAy-UvfNZRkxwUhoIXxKqYBRS6JKjanJ3Kk)
 	- [Exercises](https://challenges.re/)
 - [Nmap Network Scanning](https://mega.nz/file/d4wm2YhC#tNxfV2vCPBBIq14WKlTl1L4n9uhO-W8WzikhsrhLhG8)
-- [Black Hat Go](https://drive.google.com/file/d/1CGNgjQfW58fC6ftLGmobiQgZLUqwI5j1/view?usp=drive_link)
-- [The Ghidra Book](https://drive.google.com/file/d/1N158nxcfCIv0oUpSrgZ1HjZl6nkVu9B2/view?usp=drive_link)
-- [Practical Binary Analysis](https://drive.google.com/file/d/1KaWXHIc9e6GR1empxZSC3xtnBXctLLqZ/view?usp=drive_link)
+- [Black Hat Go](https://mega.nz/file/AkQh1TgQ#4dzGsEMI3zR-AXuTr-K2QYzohRAagSmGaj8sT1ioT0Y)
+- [The Ghidra Book](https://mega.nz/file/YoZ0wYAQ#rjeRl2RPo3CKTpP-1y7qBnQp0SpUrRvvfE25bx4Adkw)
+- [Practical Binary Analysis](https://mega.nz/file/1hpngA6T#dV_mjNpCRqoDHawvfZtIdWeLDbFNpx0R3Bp7u3eFbcI)
 
 
 ### Design Patterns
 
 - Game programming patterns
-	- [Pdf version](https://drive.google.com/file/d/1-GyqnqlUVbufRGg8etxMsHR4P97l_UR8/view?usp=sharing)
+	- [Pdf version](https://mega.nz/file/sxg2jQbC#PKTFgrHlFx6P7fQZZMBSAjaPOwmUCgDIKBRP60ePT78)
 	- [Website](https://gameprogrammingpatterns.com/contents.html)
-- [Language Implementation Patterns](https://drive.google.com/file/d/1EYEGIO03EtwfKfRbmI06-zpIPDjMZqnk/view?usp=drive_link)
+- [Language Implementation Patterns](https://mega.nz/file/kkYTFCYI#RPkQMW-uH2e3-LiYRKSrRmsd2RMPRDzj5WMIvanClzg)
 
 ### Python
 
-- [Learning Python](https://drive.google.com/file/d/1tdwn4R-H0CigcAfW-MvS87GPG7iy_VVl/view?usp=sharing)
-- [Byte of Python](https://drive.google.com/file/d/1t31Av_OKpmh75BCeotZ5ILCNX4SYwv8H/view?usp=drive_link)
-- [Django for Beginners 3.1](https://drive.google.com/file/d/10B9KbAlhXnhKBXOpJuYLwVN7rJVtOmXt/view?usp=drive_link)
-- [Flask Web Development](https://drive.google.com/file/d/1EQzQgZ_jts8HXGaVEpKWT1XaLirgSN1m/view?usp=sharing)
+- [Learning Python](https://mega.nz/file/IxYyTIAb#MWA2hmatNAuE1V_9kYoNcSk1pOPIyUl9-kAphq5LfVA)
+- [Byte of Python](https://mega.nz/file/9w5CkJJR#q-H-LiWg9YPo6YJFJOogd-23TRnjSSfNI71NdwMmBGg)
+- [Django for Beginners 3.1](https://mega.nz/file/Z5wmgCKK#u8rpnTTTiCah9MBMKLORl3EMpxwCfpxXiWLXtOU7C0U)
+- [Flask Web Development](https://mega.nz/file/VoowDJpQ#0yHfFjavW7VhIATDbzZOHbGbMAiynthZydyTDrv2FSI)
 - Python Data Science Hanbook
 	- [Web verion](https://jakevdp.github.io/PythonDataScienceHandbook/)
-	- [Pdf version](https://drive.google.com/file/d/1h1qqsWAFVTnwXRlmrG7oj1xFQGsDzgNP/view?usp=sharing)
-- [Hands-on Machine Learning with Scikit-Learn, Kerasm and TensorFlow](https://drive.google.com/file/d/106EBlq4Oz16Vnb6dO0trpmWsmbS95-Yw/view?usp=sharing)
+	- [Pdf version](https://mega.nz/file/094TSRAJ#EXgkqHq8vMLyNCqsl9q5ycXW3DjhgXekrn5vGQnYnrQ)
+- [Hands-on Machine Learning with Scikit-Learn, Kerasm and TensorFlow](https://mega.nz/file/xshQ0B7S#VoURPvbKVz6n2FpOQOpA-HnR2PsEhGxunY_2KHMknnc)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
-- [Python Basics : A practical introduction to Python 3](https://drive.google.com/file/d/1OBAIvgVpcoSSIntTQGqFBYe10-kWWUdy/view?usp=drive_link)
+- [Python Basics : A practical introduction to Python 3](https://mega.nz/file/Uphy0QKC#UbFZADwaGeQCVie5N34No8Zb0zMeVfnyX7En9te5Vx8)
 
 ### Assembly
 
-- [Programming from the Ground Up](https://drive.google.com/file/d/1KfVTZmRPJ4wMb5EQaARoTPEn_F8H4m1z/view?usp=drive_link) *A good book to learn the core concepts of x86 Assembly for 32 bits machines*
-- [Learn to Program with Assembly](https://drive.google.com/file/d/1Godh030AyeS3QQRnE-7gtkmq7YXMe8RY/view?usp=drive_link) *A book from the same author to learn x86-64 Assembly*
-- [Modern x86 Assembly Language](https://drive.google.com/file/d/1clYpXLVedXpPfCFJpbGU6Wdh387UXeHc/view?usp=drive_link)
+- [Programming from the Ground Up](https://mega.nz/file/l4Ay3CyL#18BKxTvkjKlvyGopyPNcXE0dmIKOnaMQ8QJt4a3F2Ew) *A good book to learn the core concepts of x86 Assembly for 32 bits machines*
+- [Learn to Program with Assembly](https://mega.nz/file/gowiQIZT#DODbcpJlqbjO7YHi-KEp68kj_bomiW9bR5lc3OBtSOo) *A book from the same author to learn x86-64 Assembly*
+- [Modern x86 Assembly Language](https://mega.nz/file/4tw2wR7T#vyIV4mT96n8raUHwVpkpXig7q1c5AIebUfYupmAd990)
 
 ### Miscellaneous
 
 - [Pro Git](https://git-scm.com/book/en/v2)
-- [Learning Perl](https://drive.google.com/file/d/1Ht-yJpkgalh2iw6QkTTE5fCZ4YINZ9un/view?usp=sharing)
-- [Learning the vi and Vim Editors](https://drive.google.com/file/d/1kEKwwKjofKds6yJnJgpLj41Bcv2_7fbe/view?usp=sharing)
-- [Mastering Regular Expressions](https://drive.google.com/file/d/1GwQmoJZ4Ekx5_ZunXwBpmwQpUgoPCgjN/view?usp=sharing)
-- [Crafting Interpreters](https://drive.google.com/file/d/1jx-32lQlSfvIcEael-Onza0LNy2hFWEL/view?usp=sharing)
-- [Effective Typescript](https://drive.google.com/file/d/18etlkpUKcH_tp-IrBmUWNdv6EN6E03E0/view?usp=sharing)
-- [Efficient R Programming](https://drive.google.com/file/d/1neQ_nIUntW6ieA8pcchX_pzazpTN_HIi/view?usp=sharing)
-- [Operating Systems: Design and Implementation](https://drive.google.com/file/d/1UHroD0BWAuoGLskkchLekCeYtDIHwo1X/view?usp=sharing)
-- [Architecture des ordinateurs](https://drive.google.com/file/d/1M4rVxne94VRbw6DBPQ31axs8jlTMQin2/view?usp=drive_link) *In french*
+- [Learning Perl](https://mega.nz/file/Yp4j3BhB#ZXo2yrcfNopEeo-BNISloKOzCPIqEuURCHeazZ5F8pQ)
+- [Learning the vi and Vim Editors](https://mega.nz/file/d9BXlTDY#pxRlQxPwpTtDINIYIgHffooKqpAdBex6_ukAk5Iz3rA)
+- [Mastering Regular Expressions](https://mega.nz/file/F4ZQGbqR#Ki61xkWadV-g-UFQpWKE2ng8qoV_SnTFkIudxN2Ilhc)
+- [Crafting Interpreters](https://mega.nz/file/NghlnADb#OQ_46ISPoBCGFYH84eINcTaVxdCC-oN2QRLu5sCcnLA)
+- [Effective Typescript](https://mega.nz/file/J4gwTRYJ#wRigZbah44FoOltqThGTuz1QGMmz89Dcx0EwS8RvL1k)
+- [Efficient R Programming](https://mega.nz/file/J9hTFaoJ#0voHIs5fhrxLwlqwqny3bXbJn_uQQK0JqeduVxUGWZQ)
+- [Operating Systems: Design and Implementation](https://mega.nz/file/gkBDxKpa#guuKp92TOUGrMUfwVZ8SQjrrBaf0i6exsMQzcye0GOo)
+- [Architecture des ordinateurs](https://mega.nz/file/sxphlRKL#oxw53WUn1i8cyLL_B9tuKlcuUkJ4Wrpt6y4Xsjhxdy0) *In french*
 - [GNU Make Manual](https://www.gnu.org/software/make/manual/make.html)
 - Mastering CMake
-	- [Pdf version](https://drive.google.com/file/d/1bhmBITtlQ1TdeTmjvb99cvdhSDIaK-85/view?usp=sharing)
+	- [Pdf version](https://mega.nz/file/JoQxWTBT#Nify4BpUMwwQ0qf_gKNlb7-5XPSjEVJTZGYDz723k5w)
 	- [Website](https://cmake.org/cmake/help/book/mastering-cmake/)
 - [Everything Curl](https://everything.curl.dev/)
-- [100 fiches pour organiser sa veille technologique](https://drive.google.com/file/d/1yEJGTNwCXJzdh5-P7Re1wjQII1yehcVx/view?usp=drive_link) *In french*
-- [Scala by Example](https://drive.google.com/file/d/1fZdjfOmnIkST0LTqvc65c8_XaSrXzxEj/view?usp=drive_link)
-- [Parsing Techniques](https://drive.google.com/file/d/1KyOk0KDv-gZ5_h3VFKWBRYv_jtOPvRq3/view?usp=drive_link)
+- [100 fiches pour organiser sa veille technologique](https://mega.nz/file/VgwzlQoK#KquGTzDAPZcTIBT0B3VHFhXicdvBBqfzCj0B9PddUx8) *In french*
+- [Scala by Example](https://mega.nz/file/k0ICma4L#TEyhs5aAPZG-D9eMETV_un6GwWHt-YmrYZpkqY_r05Q)
+- [Parsing Techniques](https://mega.nz/file/IswnATpZ#szXTMfe4Q7GOcrpFGTRc46y5jbEdwHjAKbk2FP6GDXk)
 
 ## Github Repositories
 
