@@ -4,7 +4,7 @@
 
 ### Algorithms
 
-- [Introduction to Algorithms](https://mega.nz/file/wlRSDQ7D#h3JF7kFppmrNvkW1j_-oJ9t1oBW5waRWuxPmwIv7FOI)
+- [Introduction to Algorithms](https://mega.nz/file/45gAjZDJ#S_ls8bLBcaU97vIC6lZGceF9TWfSCQGQfUYAet494hM)
 	- [Exercises Solutions](https://mega.nz/folder/ckZHmRhT#tH1OP0VkzRV-vs6IBwCfVw)
 - [Introduction to the Design and Analysis of Algorithms](https://mega.nz/file/w0Z2CL4T#P1gflkFsDsdwDjvGbIm9cjglyPXCaYtFWpzwrEhYNRU)
 - [Artificial Intelligence, A Modern Approach](https://mega.nz/file/A9oXGTgb#Y1KlMy_RkwohMNzhn2x4z-dPfLV1VgJtNu0jT2u5R_Q)
