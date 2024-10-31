@@ -4,68 +4,67 @@
 
 ### Algorithms
 
-- [Introduction to Algorithms](https://drive.google.com/file/d/1srV-PQMxfaDM1BCvErdR3VKXw8Yycn3U/view?usp=sharing)
-	- [Exercises Solutions](https://drive.google.com/drive/folders/12Jq9GAECyyh_LGcVd4qAqm92cxrzUNKi?usp=sharing)
-- [Introduction to the Design and Analysis of Algorithms](https://drive.google.com/file/d/1dBzezw0oPJ8r2JOovfHjfh5QjZfMuziv/view?usp=sharing)
-- [Artificial Intelligence, A Modern Approach](https://drive.google.com/file/d/1p6Vs87YOqLC6Rp_mk9vXa-JRmlfdC78i/view?usp=sharing)
+- [Introduction to Algorithms](https://mega.nz/file/wlRSDQ7D#h3JF7kFppmrNvkW1j_-oJ9t1oBW5waRWuxPmwIv7FOI)
+	- [Exercises Solutions](https://mega.nz/folder/ckZHmRhT#tH1OP0VkzRV-vs6IBwCfVw)
+- [Introduction to the Design and Analysis of Algorithms](https://mega.nz/file/w0Z2CL4T#P1gflkFsDsdwDjvGbIm9cjglyPXCaYtFWpzwrEhYNRU)
+- [Artificial Intelligence, A Modern Approach](https://mega.nz/file/A9oXGTgb#Y1KlMy_RkwohMNzhn2x4z-dPfLV1VgJtNu0jT2u5R_Q)
 
 ### C and C++
 
-- [Test Driven Development for Embedded C](https://drive.google.com/file/d/13C1dwaglLBVMRAbNBt4giBcG2o4gLnXw/view?usp=sharing)
-- [The ANSI C Programming Language](https://drive.google.com/file/d/1jAlLokU2AneydxYSCqqztzJB7CwaG3g7/view?usp=sharing)
-- [The C++ Programming Language](https://drive.google.com/file/d/1Yy-WjA__QyX04kinPEZ7kpXaVYhXtTcG/view?usp=sharing)
-- [Secure Coding in C and C++](https://drive.google.com/file/d/1IvpcEZhHry30sftFAU4VaXtGgym30SAS/view?usp=sharing)
-- [The C Programming Language](https://drive.google.com/file/d/1LbvCvhmgYnjaHwq6gGTp1pkMYlxOujAd/view?usp=drive_link)
-- [Understanding and Using C Pointers](https://drive.google.com/file/d/1WmSLkopoCYeO4H36tw_2BNUidmmrNDWb/view?usp=drive_link)
-- [C++ primer](https://drive.google.com/file/d/1_oVlEifAiltfLrt_B3V0hsSzAiRdBqiV/view?usp=sharing)
-- [C in a Nutshell](https://drive.google.com/file/d/19eCH4DtJk5N1b39EbviuleL-RyAieCvj/view?usp=drive_link)
+- [Test Driven Development for Embedded C](https://mega.nz/file/l8A0VbKZ#fBBbNVFXu_g8iTCPjelBbDhHT9M5QIph0-QCdtmcIyo)
+- [The ANSI C Programming Language](https://mega.nz/file/cgJnRKrS#Gs5hDVU1ZJEjURq6P-CWOEHQ2c7-b-lRNHYCc4ljQfM)
+- [The C++ Programming Language](https://mega.nz/file/pxQzSZZL#GrXF9vdjL8sEEZ3Xx807ozz9yZWAPtBHPbe1rpdv8Gs)
+- [Secure Coding in C and C++](https://mega.nz/file/55ZjlQ6R#_l6O3HIIerq1dPtZ5gQECTJ1V41dk0lyUIXa9wS-tbY)
+- [The C Programming Language](https://mega.nz/file/hl41UJjA#R5Xr6wdAQrwd31n-PPEdxELebMirC6sezo-2D65T9JE)
+- [Understanding and Using C Pointers](https://mega.nz/file/hsxg0TjZ#DamVuJYoj0qet24w2vNfcljz59dlSWfC3GJ4sK6AWXs)
+- [C++ primer](https://mega.nz/file/VtIRXADa#MuCZZjcv07808VUautLNqx-lWFSKUwM2ewdMdGAa6K4)
+- [C in a Nutshell](https://mega.nz/file/IgpClBSa#mGpBgGcLH__L6QHJ6oP1lfiPer85GRQO701M2TNaxq8)
 
 ### Shell
 
-- [Learn Bash the Hard Way](https://drive.google.com/file/d/1FxXVJ8ajzgEzveACkqAQDUArEZD-Pr4o/view?usp=sharing)
-- [Learning the Bash Shell](https://drive.google.com/file/d/1TCR-soJMgx8MZMcwRbH_bqHstzWSmJ_r/view?usp=sharing)
+- [Learning the Bash Shell](https://mega.nz/file/wtoEWDyA#1dtiWRHpZE62VOVUrmliiIkqbOoA3QyxHxbTnNnQwuQ)
 - [The Linux Command Line](https://freefr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf?viasf=1)
 
 ### MachineLearning and DeepLearning
 
-- [Understanding Machine Learning Theory](https://drive.google.com/file/d/1iM2ExFP28A4wlT_-T-fiu8nI5p0xQ_T1/view?usp=sharing)
-- [Apprendre le Machine Learning en une semaine](https://drive.google.com/file/d/1-ufZPnMhvbS3ozk_aNiT9CoB-BTJB5iL/view?usp=sharing) *In french*
-- [Deep Learning](https://drive.google.com/file/d/1tZg0WQX90Kc6bWGgaNPvs6Rz_O-Wma7Z/view?usp=drive_link)
+- [Understanding Machine Learning Theory](https://mega.nz/file/8khmkZzR#wo89EHHJ6ewDoc-0z44urIs9FwD29IL0LpMrXTYSl28)
+- [Apprendre le Machine Learning en une semaine](https://mega.nz/file/Vo5jmSiY#yJBb4O6mmMSM6rQf_aGfPNhGcd5EBIobm8FiR3OBhr4) *In french*
+- [Deep Learning](https://mega.nz/file/044xCCiI#L1mjVkQfnjOBnRb827UMvxv3eFRxc9XNW4aWdj938k8)
 
 ### SysAdmin
 
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
-- [Unix and Linux System Administration Handbook](https://drive.google.com/file/d/11WlDLv-G3nD0Hqf2RVdk_ZOF2SWVHRC1/view?usp=drive_link)
+- [Unix and Linux System Administration Handbook](https://mega.nz/file/B0pVGCwL#t7x7hbk128C14yxshpmELyXIEhO-w7umoQRGFIgUOfs)
 
 ### DevOps
 
-- [Kubernetes: Up and Running](https://drive.google.com/file/d/1Yn09nN2vMriiFqaf8T6AlQf9BuWUbt_a/view?usp=sharing)
-- [Docker Deep Dive](https://drive.google.com/file/d/1pgFI37PTsCfHq9kKGEHAymg2G4JrEnKQ/view?usp=sharing)
+- [Kubernetes: Up and Running](https://mega.nz/file/c8J2WAoL#26cL721ZIl-X2gFtdtqcFY4HxhKhLojErESfWMfMemQ)
+- [Docker Deep Dive](https://mega.nz/file/toZnnSIY#HxX4bM8y-NHH6GWWgVSe17FaFF2hb8wtOaVJCnOy2MA)
 - [Building Secure and Reliable Systems](https://github.com/google/building-secure-and-reliable-systems/)
-- [Hand-On Security in DevOps](https://drive.google.com/file/d/10EVRMidjZXFn3ubEctN4e52gb4czGqRu/view?usp=drive_link)
-- [Learning DevSecOps](https://drive.google.com/file/d/1Ocviz0VmogIPorxAACFC0hkcW3N7NTqI/view?usp=drive_link)
+- [Hand-On Security in DevOps](https://mega.nz/file/AtA1SJZQ#KoGbLqaqdkMs-6Xsf0bsmUjavpsNtbnOVvzOYSEh3VI)
+- [Learning DevSecOps](https://mega.nz/file/90wlTIxQ#CUyJ1YTdMud-J253JRDg6O7Lfs9mAZ9TgXTaHBcXUBI)
 
 ### Security
 
-- [Securite informatique - Ethical Hacking](https://drive.google.com/file/d/1LaKgR24rY8NuaVCVUKrksIpGKkXcRXUd/view?usp=sharing) *In french*
-- [SSH Mastery](https://drive.google.com/file/d/1pR7_hHG6z7c41kVlZFaqfOysph-WfE-5/view?usp=sharing)
-- [Hacking: The Art of Exploitation](https://drive.google.com/file/d/10QugF-mQj8Sc4oO3TF5nXfqm9LVEsg0R/view?usp=sharing)
-- [The Shellcoder's Handbook](https://drive.google.com/file/d/1ilcpWUvKEqcreuKrhv8NbMN2ArQKDIrV/view?usp=drive_link)
-- [Gray Hat Hacking](https://drive.google.com/file/d/1GTtlFR65jXr3MFy0f7pgekwYrG05GBMl/view?usp=drive_link)
+- [Securite informatique - Ethical Hacking](https://mega.nz/file/QtYEGQjK#TyWXSSa1cXRNlw-kRck-hIRdvvLdLAsDILGaOZxs0JI) *In french*
+- [SSH Mastery](https://mega.nz/file/ktB2QQyL#AQkwkRbnp703j0D0bsWkSU0PM8cnTyCmsDaenoyfLgU)
+- [Hacking: The Art of Exploitation](https://mega.nz/file/Z9ZnFKCa#8YArEzVyo1sruK9YZurNiD_vJTG34Hvut2HCk0aXl3g)
+- [The Shellcoder's Handbook](https://mega.nz/file/w15lXa5D#KG46EP26ABgV71mOHrMyB0Ddz-nPfRoSeNv9Jn3Nm6I)
+- [Gray Hat Hacking](https://mega.nz/file/NhBkwIAT#7BQwe-leIEpAqXs-QKSru0u7ZbhT0aIDJcHDjWU8brg)
 - Black Hat Rust
-	- [Book](https://drive.google.com/file/d/1oCzbtPzbwmPNwANDgfkQNdBDzMp1KS3c/view?usp=sharing)
+	- [Book](https://mega.nz/file/9gRHkSaJ#66bexk9ZzLLwN0OG_NzfJWNpYdbAXCL1SYxF2WAbml4)
 	- [GitHub Repository](https://github.com/skerkour/black-hat-rust)
 - Learning Linux Binary Analysis
-	- [Book](https://drive.google.com/file/d/1sDlgT9_ChODDX5j8cD_yToxWOaU_2rPU/view?usp=drive_link)
+	- [Book](https://mega.nz/file/l8wwFKqL#GclCn8LPLKKzc-y68NB4XMZ76U8TLJDAA7_bF1yaMZ0)
 	- [Github Repository](https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis/)
-- [Black Hat Python](https://drive.google.com/file/d/10rZ-hHkaS5MJTuewsR45IrW7MUtjPUvW/view?usp=drive_link)
-- [Penetration Testing: A Hands-On Introduction to Hacking](https://drive.google.com/file/d/1qr7Ga_JfxJNKLATXOVeLaMKjIpXzyaT4/view?usp=drive_link)
-- [Game Hacking](https://drive.google.com/file/d/1AdEGr0bHa8YySklgDMIEwbFdc4s5M6qZ/view?usp=sharing)
-- [Serious Cryptography](https://drive.google.com/file/d/1PWdhT9iYibW2fV1nALvRNcKSyyn_BedH/view?usp=sharing)
+- [Black Hat Python](https://mega.nz/file/JpIQHICa#wf8WhWsmlrFqwhUQ3nt6THN-4O90eoVZJ1qoZniaJFo)
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://mega.nz/file/V4hnnJaA#9HmTtgZfZxBc97rt9KzJ77hyreIJAx91-iGDFX7VGNg)
+- [Game Hacking](https://mega.nz/file/9hZWzY5b#pywD3bL-DkmvXJ7_lYCpwaT_QnXrZnd4hSpsPY_KvuY)
+- [Serious Cryptography](https://mega.nz/file/90JmySZa#Smmu-z1vfgljjxCqTq3QUAyHzWkSE92TnZyQOR7g6ZM)
 - Reverse Engineering for Beginners
-	- [Book](https://drive.google.com/file/d/12jD_EEYLp0rHtD2b7Pvels6uWKXqzkns/view?usp=sharing)
+	- [Book](https://mega.nz/file/RkIBFYDL#XQ0EXohGgAy-UvfNZRkxwUhoIXxKqYBRS6JKjanJ3Kk)
 	- [Exercises](https://challenges.re/)
-- [Nmap Network Scanning](https://drive.google.com/file/d/1dbUqCJ5U2PsprFZ1Fbs-34Mb9AKWKvLY/view?usp=sharing)
+- [Nmap Network Scanning](https://mega.nz/file/d4wm2YhC#tNxfV2vCPBBIq14WKlTl1L4n9uhO-W8WzikhsrhLhG8)
 - [Black Hat Go](https://drive.google.com/file/d/1CGNgjQfW58fC6ftLGmobiQgZLUqwI5j1/view?usp=drive_link)
 - [The Ghidra Book](https://drive.google.com/file/d/1N158nxcfCIv0oUpSrgZ1HjZl6nkVu9B2/view?usp=drive_link)
 - [Practical Binary Analysis](https://drive.google.com/file/d/1KaWXHIc9e6GR1empxZSC3xtnBXctLLqZ/view?usp=drive_link)
