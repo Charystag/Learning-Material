@@ -115,6 +115,7 @@
 - [100 fiches pour organiser sa veille technologique](https://mega.nz/file/VgwzlQoK#KquGTzDAPZcTIBT0B3VHFhXicdvBBqfzCj0B9PddUx8) *In french*
 - [Scala by Example](https://mega.nz/file/k0ICma4L#TEyhs5aAPZG-D9eMETV_un6GwWHt-YmrYZpkqY_r05Q)
 - [Parsing Techniques](https://mega.nz/file/IswnATpZ#szXTMfe4Q7GOcrpFGTRc46y5jbEdwHjAKbk2FP6GDXk)
+- [Practical Vim](https://mega.nz/file/V44D1RwL#D4PVUjeazXmW6P1YyX4Z1KMyKk73Z0Fc34S1s5CHK7U)
 
 ## Github Repositories
 
