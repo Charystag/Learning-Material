@@ -69,6 +69,11 @@
 - [The Ghidra Book](https://mega.nz/file/YoZ0wYAQ#rjeRl2RPo3CKTpP-1y7qBnQp0SpUrRvvfE25bx4Adkw)
 - [Practical Binary Analysis](https://mega.nz/file/1hpngA6T#dV_mjNpCRqoDHawvfZtIdWeLDbFNpx0R3Bp7u3eFbcI)
 
+### Networking
+
+- [The TCP/IP Guide](http://tcpipguide.com/free/index.htm) *Free internet version*
+- [TCP/IP Illustrated, Volume I](https://reader.z-library.sk/read/b31f9b28c18e3c251c49970da540b7f5cee5417bbb3becff11a8a511825fb0be/book/Lvyd9ZnnjW/tcpip-illustrated-vol-1-2nd-ed.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=pdf&signature=bcbd31e3d4ffd0c75a13d2c74b05df856db2f70d1fa96ce5fe5084de6aabb62d&download_location=https%3A%2F%2Fz-library.sk%2Fdl%2FaBb1NzDDj8&file_access_token=eyJleHAiOjE3ODI5MDMzNTIsInZlciI6IjEuMCIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiJmaWxlX2FjY2VzcyIsImZpbGVfc2hhMjU2IjoiYjMxZjliMjhjMThlM2MyNTFjNDk5NzBkYTU0MGI3ZjVjZWU1NDE3YmJiM2JlY2ZmMTFhOGE1MTE4MjVmYjBiZSIsImFjY2Vzc19sZXZlbCI6ImZ1bGwiLCJpc19wdWJsaWMiOmZhbHNlLCJsaW5rX293bmVyIjo1MTQ4MzYzfQ.5YprIIJ3qNhzW66HnLt37i9MEFQcHQvPxIt8FCD4xwk)
+
 
 ### Design Patterns
 
